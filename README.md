@@ -14,7 +14,9 @@ Most, if not all, new Web Developers find the leap from understanding how indivi
 ## WorkFLow
 • Proceded by creating a blueprint to define what activities are needed, the order they should be performed in, and
 at what level of detail makes getting started easier.
+
 • Grouped components which together supply a specific piece of functionality to a user.
+
 • Further Working upon Js to demonstrate static features like add product to cart, remove from cart,
 increase quantity in cart, search product etc.
 
